@@ -1,4 +1,4 @@
-# Aakash Chougule Portfolio - FINAL
+# Aakash Chougule Portfolio
 
 This build focuses on production public-portfolio quality:
 
