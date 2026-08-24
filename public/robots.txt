@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://aakash-chougule-portfolio.aakashc549.workers.dev/sitemap.xml
+Sitemap: https://aakashchougule.is-a.dev/sitemap.xml
